@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8d0404;
+  height: 100vh;
+}
+
+.poster {
+  height: 500px;
+  border: 5px solid #f2f2f2;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 20px;
+  color: #1e1e1e;
+  text-shadow: 2px 2px #f2f2f2;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #1e1e1e;
+  color: #f2f2f2;
+  border: 2px solid #f2f2f2;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #f2f2f2;
+  color: #1e1e1e;
+}
+body {
+  background: black;
+  animation: color-change 10s ease-in-out infinite;
+}
+
+@keyframes color-change {
+  0% {
+    background: black;
+  }
+  50% {
+    background: grey;
+  }
+  100% {
+    background: black;
+  }
+}

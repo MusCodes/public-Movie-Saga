@@ -1,0 +1,43 @@
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.movies div {
+  width: 300px;
+  height: 450px;
+  margin: 20px;
+  text-align: center;
+  background-color: #dddddd;
+  border: 5px solid #cccccc;
+  box-shadow: 10px 10px 5px #888888;
+  overflow: hidden;
+}
+
+.movies h3 {
+  color: #179ee7;
+  font-size: 1.5em;
+  margin: 0;
+  padding: 10px;
+  
+}
+
+.movies img {
+  width: 100%;
+  height: 80%;
+  object-fit: cover;
+  cursor: pointer;
+}
+h3{
+    font-size: 20px;
+    font-family: cursive;
+    
+}
+h1{
+    font-size: 40px;
+    color: burlywood;
+    font-family: cursive;
+}
