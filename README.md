@@ -10,9 +10,12 @@ the page, they are able to see movie posters and their names.Once a user clicks 
 the movie title,description, and all the genres it belongs to.
 
 ## SCREENSHOTS
-https://ibb.co/Zx5QFG8
+<img width="1440" alt="movieSaga#1" src="https://github.com/MusCodes/public-Movie-Saga/assets/108280009/9be07ed7-77c6-4c67-8b90-84ab4aa7d726">
 
-https://ibb.co/r4d0mqT
+
+
+<img width="1440" alt="MovieSaga#2" src="https://github.com/MusCodes/public-Movie-Saga/assets/108280009/7a60d812-d611-41c6-b0b3-37e728e1c663">
+
 
 
 ## INSTALLATION.
